@@ -1,3 +1,7 @@
-# flask_blogger
 A basic blogger written with the flask framework
-# flask_blogger
+
+# To install with pipenv
+pipenv install --deploy
+
+# To Run
+flask run
